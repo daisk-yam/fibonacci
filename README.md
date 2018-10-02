@@ -1,1 +1,1 @@
-Algoritmo de fibonacci utilizando recursão
+Algoritmo de fibonacci utilizando recursividade
